@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local environments and credentials
+.venv/
+venv/
+env/
+.conda/
+.env
+.env.*
+!.env.example
+
+# Editors and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

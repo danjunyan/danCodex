@@ -1,0 +1,6 @@
+name: dancodex
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - -r requirements-lock.txt

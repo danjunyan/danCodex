@@ -1,0 +1,4 @@
+anthropic==2.3.0
+mcp==2.3.0
+mcp-server-time==2026.10.19
+python-dotenv==1.2.4
